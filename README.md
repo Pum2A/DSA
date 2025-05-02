@@ -4,7 +4,7 @@
 [![Backend Status](https://img.shields.io/badge/Backend-.NET-934B8E?style=for-the-badge&logo=dotnet)](./dsa.net.backend)
 [![Repo Structure](https://img.shields.io/badge/Structure-Git%20Submodules-orange?style=flat-square)](.)
 
-Link do aplikacji: https://dsa-frontend-nextjs.vercel.app/
+Link do aplikacji: [https://dsa-frontend-nextjs-pkh4.vercel.app/](https://dsa-frontend-nextjs-pkh4.vercel.app/)
 
 
 # Pamietaj że aplikacja jest w fazie testów!
