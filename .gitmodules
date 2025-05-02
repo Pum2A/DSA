@@ -1,0 +1,6 @@
+[submodule "dsa.frontend.nextjs"]
+	path = dsa.frontend.nextjs
+	url = https://github.com/Pum2A/DSA.FRONTEND.NEXTJS.git
+[submodule "dsa.net.backend"]
+	path = dsa.net.backend
+	url = https://github.com/Pum2A/DSA.NET.BACKEND.git
